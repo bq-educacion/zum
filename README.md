@@ -2,6 +2,7 @@
 
 * **ZUM BT 328** - Arduino UNO derivative with Blue Tooth support, pin connectors for ease of use, 3Amps supply for periphericals, on/off switch.
 * **ZUM core** - Derivative of ZUM BT 328 with integrated Blue Tooth chip
+* **ZUM junior** - Derivative of ZUM core adapted to an enclosure and with connector aimed for yourger kits.
 * **ZUM scan** - ZUM Core Shield for control of stepper motors and laser beams of BQ Ciclop 3D Scanner
 * **ZUM Mega 3D** - ATMega based controller for Open Source 3D printers.
 * **ZUM LCD Smart Controller** - LCD and SD card reader for Open Source 3D printers.
